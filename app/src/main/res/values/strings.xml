@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c349">C349 iPad Programming</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="back">Back</string>
+    <string name="details">Module Code: \nModule Name: \nAcademic Year: \nSemester: \nModule Credit: \nVenue:</string>
+</resources>
